@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Courszilla::Application.load_tasks
+NewApp::Application.load_tasks
